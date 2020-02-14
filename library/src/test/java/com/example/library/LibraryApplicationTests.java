@@ -15,5 +15,9 @@ class LibraryApplicationTests {
 	void testMagazinesExample() {
 		
 	}
+	@Test
+	void testCategoryExample() {
+		
+	}
 	
 }
