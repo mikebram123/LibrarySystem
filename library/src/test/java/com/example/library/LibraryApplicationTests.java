@@ -9,5 +9,10 @@ class LibraryApplicationTests {
 	@Test
 	void testMemberExample() {
 	}
+	
+	@Test
+	void testBookExample() {
+		
+	}
 
 }
