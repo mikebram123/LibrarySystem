@@ -15,9 +15,14 @@ class LibraryApplicationTests {
 	void testMagazinesExample() {
 		
 	}
+	
+	@Test
+	void testBookExample() {
+	}		
+
 	@Test
 	void testCategoryExample() {
-		
+
 	}
 	
 }
