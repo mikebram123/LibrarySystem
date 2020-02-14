@@ -14,7 +14,8 @@ class LibraryApplicationTests {
 	void testNewspapersExample() {
 		
 	}
-	
+	void testBookExample() {
+	}		
 	@Test
 	void testCategoryExample() {
 	}
