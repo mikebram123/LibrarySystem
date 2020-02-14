@@ -12,7 +12,10 @@ class LibraryApplicationTests {
 	
 	@Test
 	void testBookExample() {
-		
+	}		
+
+	@Test
+	void testCategoryExample() {
 	}
 
 }
