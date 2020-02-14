@@ -9,9 +9,14 @@ class LibraryApplicationTests {
 	@Test
 	void testMemberExample() {
 	}
+	
 	@Test
 	void testNewspapersExample() {
 		
+	}
+	
+	@Test
+	void testCategoryExample() {
 	}
 
 }
